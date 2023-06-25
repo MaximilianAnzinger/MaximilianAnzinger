@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Maximilian Anzinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximilianAnzinger&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maximiliananzinger&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <!--
 **MaximilianAnzinger/MaximilianAnzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
