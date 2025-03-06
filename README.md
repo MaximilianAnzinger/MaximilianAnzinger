@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=maximiliananzinger&theme=vision-friendly-dark)](https://git.io/streak-stats)
 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maximiliananzinger&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=maximiliananzinger&theme=vision-friendly-dark" />
 </p>
 
 <!--
